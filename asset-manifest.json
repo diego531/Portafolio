@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.e018003c.chunk.css",
+    "main.js": "/portafolio/static/js/main.f704dbd0.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.f704dbd0.chunk.js.map",
+    "runtime-main.js": "/portafolio/static/js/runtime-main.ec6a69aa.js",
+    "runtime-main.js.map": "/portafolio/static/js/runtime-main.ec6a69aa.js.map",
+    "static/js/2.475dc1cc.chunk.js": "/portafolio/static/js/2.475dc1cc.chunk.js",
+    "static/js/2.475dc1cc.chunk.js.map": "/portafolio/static/js/2.475dc1cc.chunk.js.map",
+    "static/js/3.6dfb32ec.chunk.js": "/portafolio/static/js/3.6dfb32ec.chunk.js",
+    "static/js/3.6dfb32ec.chunk.js.map": "/portafolio/static/js/3.6dfb32ec.chunk.js.map",
+    "index.html": "/portafolio/index.html",
+    "static/css/main.e018003c.chunk.css.map": "/portafolio/static/css/main.e018003c.chunk.css.map",
+    "static/js/2.475dc1cc.chunk.js.LICENSE.txt": "/portafolio/static/js/2.475dc1cc.chunk.js.LICENSE.txt",
+    "static/media/baile.0df597ed.gif": "/portafolio/static/media/baile.0df597ed.gif",
+    "static/media/foto.7cfd1343.jpg": "/portafolio/static/media/foto.7cfd1343.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec6a69aa.js",
+    "static/js/2.475dc1cc.chunk.js",
+    "static/css/main.e018003c.chunk.css",
+    "static/js/main.f704dbd0.chunk.js"
+  ]
+}
